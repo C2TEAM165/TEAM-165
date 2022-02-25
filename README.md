@@ -27,10 +27,11 @@ Forge is a free, open-source modding API all of your favourite mods use!
 #### Notes:
 - Introduced in 1.13 was a new FML, information found [here](NewFML.md).
 
-# Installing Forge
+# TEAM 165
 
-Go to [the Forge website](https://files.minecraftforge.net)
+Go to [the team 165 website](https://c2team165.github.io/TEAM-165/)
  and select the Minecraft version you wish to get Forge for from the list.
+![26-903-creative-brilliant-logo-design](https://user-images.githubusercontent.com/100404698/155751226-f069a84f-86ca-4198-ac79-b363e10961e5.gif)
 
 You can download the installer for the *Recommended Build* or the
  *Latest build* there. Latest builds may have newer features but may be
@@ -46,30 +47,27 @@ For support and questions, visit [the Support Forum](https://www.minecraftforge.
 
 [See the "Getting Started" section in the Forge Documentation](https://mcforge.readthedocs.io/en/latest/gettingstarted/).
 
-# Contribute to Forge
+# Contribute to TEAM 165
 
-If you wish to actually inspect Forge, submit PRs or otherwise work
+If you wish to actually inspect TEAM 165, submit PRs or otherwise work
  with Forge itself, you're in the right place!
  
- [See the guide to setting up a Forge workspace](http://mcforge.readthedocs.io/en/latest/forgedev/).
 
-### Pull requests
 
-[See the "Making Changes and Pull Requests" section in the Forge documentation](https://mcforge.readthedocs.io/en/latest/forgedev/#making-changes-and-pull-requests).
+
 
 Please read the contributing guidelines found [here](CONTRIBUTING.md) before making a pull request.
 
 ### Contributor License Agreement
-We require all contributors to acknowledge the [Forge Contributor
- License Agreement](https://cla-assistant.io/MinecraftForge/MinecraftForge). Please ensure you have a valid email address
+We require all contributors to acknowledge . Please ensure you have a valid email address
  associated with your GitHub account to do this. If you have previously
  signed it, you should be OK.
 
 #### Donate
 *Forge is a large project with many collaborators working on it around the clock. Forge is and will always remain free to use and modify. However, it costs money to run such a large project as this, so please consider [becoming a patron](https://www.patreon.com/LexManos).*
 
-[Download]: https://files.minecraftforge.net/
-[Forum]: https://www.minecraftforge.net/forum/
-[Discord]: https://discord.gg/UvedJ9m
-[Documentation]: https://mcforge.readthedocs.io
+[Download]: https://c2team165.github.io/TEAM-165/
+[Forum]: https://c2team165.github.io/TEAM-165/
+[Discord]: https://discord.gg/UvedJ9
+[Documentation]: https://c2team165.github.io/TEAM-165/
  
