@@ -1,23 +1,25 @@
 # TEAM-165
 
 ![th](https://user-images.githubusercontent.com/100404698/155689065-ffb392f7-2c90-400a-b841-3c07f15a8427.jpg)
+</head>
+<body background="![videoblocks-abstract-modern-colorful-background-with-rectangles-moving-to-the-camera-and-lens-flares-future-business-technology-backdrop-loopable_h9wqzo94z_thumbnail-1080_01](https://user-images.githubusercontent.com/100404698/155756319-7d4b0aeb-8e12-43ed-8c55-f4b3da5df89f.png)">
+        <h1>WELCOME TO OUR WEBSITE</h1> 
+</body>
+</html>
 
-welcome
-BY
 
-TEAM
-165
+
 =============
 # C2-TEAM-165 
 
 |    TEAM       |    MEMBERS |
 | ------------- | -----------|
-|   SANTHOSH MURTHY  20BME247|
-|   VISHNU VARDHAN   20BAE048|
-|   MELVIN DUDLEY    20BCE207|
-|   VISHAL           20BAU039|
-|   VISHAL           20BBT050|
-|   SRUTHI           20BMC213|
+|   SANTHOSH MURTHY  |20BME247|
+|   VISHNU VARDHAN   |20BAE048|
+|   MELVIN DUDLEY    |20BCE207|
+|   VISHAL           |20BAU039|
+|   VISHAL           |20BBT050|
+|   SRUTHI           |20BMC213|
 
 ![th](https://user-images.githubusercontent.com/100404698/155754505-ecb523a2-3129-4744-b482-8c1ff5f82b63.jpg)
 
@@ -71,8 +73,4 @@ We require all contributors to acknowledge . Please ensure you have a valid emai
 #### Donate
 *Forge is a large project with many collaborators working on it around the clock. Forge is and will always remain free to use and modify. However, it costs money to run such a large project as this, so please consider [becoming a patron](https://www.patreon.com/LexManos).*
 
-[Download]: https://c2team165.github.io/TEAM-165/
-[Forum]: https://c2team165.github.io/TEAM-165/
-[Discord]: https://discord.gg/UvedJ9
-[Documentation]: https://c2team165.github.io/TEAM-165/
- 
+
