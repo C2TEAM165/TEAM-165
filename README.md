@@ -46,6 +46,11 @@ For support and questions, visit [the Support Forum](https://www.minecraftforge.
 # Creating Mods
 ![th](https://user-images.githubusercontent.com/100404698/155752047-7586c34d-9753-40ea-be36-fe9c9e7e7a39.jpg)
 
+###DARK MODS
+
+![JUbQu94](https://user-images.githubusercontent.com/100404698/155752348-61ae637c-bdb6-44b8-b254-ea78417a2088.jpg)
+
+
 ##TEAM 165
 [See the "Getting Started" section in the Forge Documentation](https://mcforge.readthedocs.io/en/latest/gettingstarted/).
 
