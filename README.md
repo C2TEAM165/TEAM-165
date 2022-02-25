@@ -22,18 +22,10 @@
 # TEAM 165
 
 Go to [the team 165 website](https://c2team165.github.io/TEAM-165/)
- and select the Minecraft version you wish to get Forge for from the list.
-![26-903-creative-brilliant-logo-design](https://user-images.githubusercontent.com/100404698/155751226-f069a84f-86ca-4198-ac79-b363e10961e5.gif)
 
-You can download the installer for the *Recommended Build* or the
- *Latest build* there. Latest builds may have newer features but may be
- more unstable as a result. The installer will attempt to install Forge
- into your vanilla launcher environment, where you can then create a new
- profile using that version and play the game!
- 
-For support and questions, visit [the Support Forum](https://www.minecraftforge.net/forum/forum/18-support-bug-reports/).
+*https://youtu.be/8FAUEv_E_xQ*
 
-[Here is a short video from Rorax showing how to install and setup Forge.](https://www.youtube.com/watch?v=lB3ArN_-3Oc)
+
 
 # Creating Mods
 ![th](https://user-images.githubusercontent.com/100404698/155752047-7586c34d-9753-40ea-be36-fe9c9e7e7a39.jpg)
