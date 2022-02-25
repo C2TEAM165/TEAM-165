@@ -1,14 +1,7 @@
 # TEAM-165
 
 ![th](https://user-images.githubusercontent.com/100404698/155689065-ffb392f7-2c90-400a-b841-3c07f15a8427.jpg)
-</head>
-<body background="![videoblocks-abstract-modern-colorful-background-with-rectangles-moving-to-the-camera-and-lens-flares-future-business-technology-backdrop-loopable_h9wqzo94z_thumbnail-1080_01](https://user-images.githubusercontent.com/100404698/155756319-7d4b0aeb-8e12-43ed-8c55-f4b3da5df89f.png)">
-        <h1>WELCOME TO OUR WEBSITE</h1> 
-</body>
-</html>
-
-
-
+# WELCOME TO OUR WEBSITE 
 =============
 # C2-TEAM-165 
 
