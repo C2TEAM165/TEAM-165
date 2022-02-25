@@ -47,23 +47,19 @@ For support and questions, visit [the Support Forum](https://www.minecraftforge.
 ![Dark-Knight-Rises-Wallpaper-HD](https://user-images.githubusercontent.com/100404698/155752662-3e37f94c-9fe5-486e-ae7a-6525e5d32aca.jpg)
 
 
-# Contribute to TEAM 165
-
-If you wish to actually inspect TEAM 165, submit PRs or otherwise work
- with Forge itself, you're in the right place!
- 
+# FEEDBACK *CLICK HERE*
 
 
 
-
-Please read the contributing guidelines found [here](CONTRIBUTING.md) before making a pull request.
 
 ### Contributor License Agreement
 We require all contributors to acknowledge . Please ensure you have a valid email address
  associated with your GitHub account to do this. If you have previously
  signed it, you should be OK.
 
-#### Donate
-*Forge is a large project with many collaborators working on it around the clock. Forge is and will always remain free to use and modify. However, it costs money to run such a large project as this, so please consider [becoming a patron](https://www.patreon.com/LexManos).*
+#### CONNECT WITH US
+*AFSVJHAF@TEAM165.COM*
+# FOR ANY ENQUIRIES
+  *9004######1*
 
 
